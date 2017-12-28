@@ -1,0 +1,9 @@
+.\gas_sensor.o: Gas_Sensor.c
+.\gas_sensor.o: ../inc/tm4c123gh6pm.h
+.\gas_sensor.o: Gas_Sensor.h
+.\gas_sensor.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\gas_sensor.o: ADCSWTrigger.h
+.\gas_sensor.o: LED.h
+.\gas_sensor.o: Screen.h
+.\gas_sensor.o: ST7735.h
+.\gas_sensor.o: Sound.h

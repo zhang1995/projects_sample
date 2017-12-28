@@ -1,0 +1,11 @@
+.\rvmdk\clock.o: Clock.c
+.\rvmdk\clock.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\rvmdk\clock.o: ../inc/tm4c123gh6pm.h
+.\rvmdk\clock.o: ST7735.h
+.\rvmdk\clock.o: Switch.h
+.\rvmdk\clock.o: timer.h
+.\rvmdk\clock.o: screen.h
+.\rvmdk\clock.o: Sound.h
+.\rvmdk\clock.o: LED.h
+.\rvmdk\clock.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\rvmdk\clock.o: clock.h
